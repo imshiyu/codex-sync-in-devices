@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex History Sync"
+  short_description: "Sync Codex conversation history across devices"
+  default_prompt: "Use $codex-history-sync to sync my Codex conversation history between devices."
