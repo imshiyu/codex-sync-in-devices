@@ -1,0 +1,4 @@
+interface:
+  display_name: "Personal Conversation Memory"
+  short_description: "Recall chats and rerun omics workflows"
+  default_prompt: "Use $personal-conversation-memory to find prior context and rerun the same-style omics analysis."
