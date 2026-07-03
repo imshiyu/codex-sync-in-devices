@@ -9,3 +9,8 @@ history-sync-backups/
 backups_state/
 *.tmp
 *.bak
+
+# Local private conversation archives; never commit these.
+references/raw/
+references/conversation_index.jsonl
+references/conversation_manifest.json
